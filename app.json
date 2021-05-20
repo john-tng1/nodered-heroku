@@ -9,11 +9,11 @@
   "env": {
   "NODE_RED_a_USERNAME": {
       "description": "Set Username for Flow Editor.",
-      "value": "anhnguyen"
+      "value": ""
     },
   "NODE_RED_b_PASSWORD": {
       "description": "Set Password for Flow Editor.",
-      "value": "@raspi123"
+      "value": ""
     }
   }
 }
