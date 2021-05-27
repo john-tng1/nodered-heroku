@@ -14,8 +14,8 @@ A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https:/
 * NODE_RED_b_PASSWORD - replace this with Password for Flow Editor
 
 # 3. Access your Node-Red
-* Flow Editor - [change-with-your-heroku-app-name.herokuapp.com/editor](https://change-with-your-heroku-app-name.herokuapp.com/editor)
-* Dashboard UI - [change-with-your-heroku-app-name.herokuapp.com](https://change-with-your-heroku-app-name.herokuapp.com)
+* Flow Editor - [greenhouse-project.herokuapp.com/editor](https://change-with-your-heroku-app-name.herokuapp.com/editor)
+* Dashboard UI - [greenhouse-project.herokuapp.com](https://change-with-your-heroku-app-name.herokuapp.com)
 
 # 4. Export all flows as "flows.json" file AFTER you create your flow and deploy it
 * In Editor, click hamburger icon (top right), click Export, choose tab "all flows", then Download.
